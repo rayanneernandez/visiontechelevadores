@@ -33,7 +33,7 @@ const Footer: React.FC = () => {
           {/* Company Info */}
           <div className="space-y-6">
             <div>
-              <h3 className="text-2xl font-bold mb-4 text-white">ElevaPremium</h3>
+              <h3 className="text-2xl font-bold mb-4 text-white">Visiontech</h3>
               <p className="text-gray-300 leading-relaxed">
                 Especialistas em soluções completas para transporte vertical. 
                 Tecnologia de ponta, segurança garantida e atendimento excepcional.

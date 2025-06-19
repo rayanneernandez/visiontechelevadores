@@ -1,4 +1,4 @@
-# ElevaPremium - Site Corporativo
+# Visiontech Elevadores - Site Corporativo
 
 Site moderno e responsivo para empresa especializada em soluções completas para elevadores.
 
@@ -18,7 +18,7 @@ Site moderno e responsivo para empresa especializada em soluções completas par
 - ✅ Animações suaves e micro-interações
 - ✅ SEO otimizado
 - ✅ Performance otimizada
-- ✅ Acessibilidade (WCAG)
+- ✅ Acessibilidade 
 
 ## 🏗️ Estrutura do Projeto
 
@@ -39,25 +39,7 @@ src/
 
 ## 🚀 Como executar
 
-### Desenvolvimento
 
-```bash
-# Instalar dependências
-npm install
-
-# Executar em modo desenvolvimento
-npm run dev
-```
-
-### Build para produção
-
-```bash
-# Gerar build otimizado
-npm run build
-
-# Visualizar build localmente
-npm run preview
-```
 
 ## 📱 Seções do Site
 
@@ -69,27 +51,17 @@ npm run preview
 
 ## 🎯 Deploy
 
-### GitHub Pages
-
-1. Faça o build do projeto:
-```bash
-npm run build
-```
 
 2. Configure o GitHub Pages para usar a pasta `dist/`
 
-### Netlify/Vercel
 
-1. Conecte seu repositório
-2. Configure o comando de build: `npm run build`
-3. Configure a pasta de output: `dist`
 
 ## 📞 Contato
 
 - **Telefone**: (11) 9999-9999
-- **E-mail**: contato@elevapremium.com.br
-- **Endereço**: Av. Paulista, 1000 - São Paulo, SP
+- **E-mail**: visiontechelevadores@gmail.com
+- **Endereço**: Rio de Janeiro, RJ
 
 ---
 
-Desenvolvido com ❤️ para ElevaPremium
+Desenvolvido com ❤️ para Visiontech
